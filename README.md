@@ -81,10 +81,7 @@ requests==2.32.3
 srt==3.5.3
 elevenlabs==0.2.21
 python-pptx
-wordcloud
-
-## 📄 License  
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.  
+wordcloud 
 
 ---
 
