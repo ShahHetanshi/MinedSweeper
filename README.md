@@ -89,6 +89,8 @@ wordcloud
 - **Single-paper processing** (batch support planned).  
 
 ---
+## 📝 License
+MIT License. See [LICENSE](https://github.com/SiddhDoshi1/MinedSweeper/blob/main/LICENSE) for details.
 
 Made with ❤️ by MinedSweeper. **Democratizing knowledge, one paper at a time.**  
 ```
