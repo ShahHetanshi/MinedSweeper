@@ -81,10 +81,7 @@ requests==2.32.3
 srt==3.5.3
 elevenlabs==0.2.21
 python-pptx
-wordcloud
-
-## 📄 License  
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.  
+wordcloud 
 
 ---
 
@@ -92,7 +89,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - **Single-paper processing** (batch support planned).  
 
 ---
+## 📝 License
+MIT License. See [LICENSE](https://github.com/SiddhDoshi1/MinedSweeper/blob/main/LICENSE) for details.
 
 Made with ❤️ by MinedSweeper. **Democratizing knowledge, one paper at a time.**  
 ```
-
